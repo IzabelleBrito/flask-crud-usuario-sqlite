@@ -33,10 +33,3 @@ pip install -r requirements.txt
 # 4. Execute
 python run.py
 ```
-
-Acesse: http://localhost:5000/docs/
-
-
-
-
-
