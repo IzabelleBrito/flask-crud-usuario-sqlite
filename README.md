@@ -2,7 +2,7 @@
 
 API RESTful **Flask + SQLite** implementando operações **CRUD** para entidade **Usuário**.
 
-## Endpoints (EXATOS do desafio)
+## Endpoints
 
 | Método | Endpoint       | Descrição                  |
 |--------|----------------|----------------------------|
@@ -33,3 +33,7 @@ pip install -r requirements.txt
 # 4. Execute
 python run.py
 ```
+
+# Exemplos curl - API Usuários PicPay
+
+## `curl-examples.md`
